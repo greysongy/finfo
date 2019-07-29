@@ -2,7 +2,7 @@
 
 Finfo is a single source of consolidated information on stock prices, travel options, and currency exchange rates. It incorporates user authentication, and allows an account to store their favorite stocks. They can also browse flights from selected cities, and check out currency exchange rates.
 
-[Take a look at our site](https://greysongy.github.io/finfo/)
+[Check out our site!](https://greysongy.github.io/finfo/)
 
 ![](images/finfoRDM.png)
 
