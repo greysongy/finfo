@@ -42,14 +42,14 @@ Finfo is a single source of consolidated information on stock prices, travel opt
 
 ## Contributors 
 
-###Greyson Gerhard-Young
-*[LinkedIn](https://www.linkedin.com/in/greyson-gerhard-young/)
+### Greyson Gerhard-Young
+[LinkedIn](https://www.linkedin.com/in/greyson-gerhard-young/)
 
-###Megha Prasad
-*[LinkedIn](https://www.linkedin.com/in/megha-bindiganavale/)
+### Megha Prasad
+[LinkedIn](https://www.linkedin.com/in/megha-bindiganavale/)
 
-###Adam Lehrer
-*[LinkedIn](https://www.linkedin.com/in/adam-lehrer-968731b5/)
+### Adam Lehrer
+[LinkedIn](https://www.linkedin.com/in/adam-lehrer-968731b5/)
 
-###Raghav Shiv
-*[LinkedIn](https://www.linkedin.com/in/raghav-shiv/)
+### Raghav Shiv
+[LinkedIn](https://www.linkedin.com/in/raghav-shiv/)
