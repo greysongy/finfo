@@ -1,6 +1,9 @@
 # Finfo
 
-This Project is a collaborative effort bringing together multiple API keys on a single website. We are capturing the users input of year, month & day and putting this into our query url which makes a call to the Travelpayouts database on the click of the submit button. When we get the response we parse through the data and dynamically make a table containing price, return date, flight changes & where to but the tickets. When making the table we are adding a hook to a google search of where to buy the tickets so the user can simply click on the link and it will open a new tab and show them where to go. 
+Finfo is a single source of consolidated information on stock prices, travel options, and currency exchange rates. It incorporates user authentication, and allows an account to store their favorite stocks. They can also browse flights from selected cities, and check out currency exchange rates.
+
+Screenshot will go here
+![]()
 
 
 ## Running Tests/Instructions
